@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails TalRails30: development" uuid="6ff6175b-28b7-4dae-9528-a24d089c8016">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails TalRails30: test" uuid="f9fc6bf0-e090-4024-8b9f-c0929a268246">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails TalRails30: production" uuid="1f2c203f-4cf7-4f40-8b0d-d5add313d642">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
